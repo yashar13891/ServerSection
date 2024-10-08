@@ -22,4 +22,6 @@ lobbies:
     
     material: "GOLD_INGOT"
 
+Image:
+
 https://lunr.pics/LC7sJzzq.png
