@@ -1,8 +1,0 @@
-name: ServerSection
-version: '1'
-main: org.yashar.serversection.ServerSection
-api-version: '1.20'
-commands:
-  lobbyselector:
-    description: Opens the lobby selector menu.
-    usage: /lobbyselector
