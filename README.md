@@ -21,3 +21,5 @@ lobbies:
     name: "&cLobby 3"
     
     material: "GOLD_INGOT"
+
+https://lunr.pics/LC7sJzzq.png
