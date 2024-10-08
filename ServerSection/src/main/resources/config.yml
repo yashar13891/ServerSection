@@ -1,0 +1,15 @@
+lobbies:
+  lobby1:
+    name: "&aLobby 1"
+    material: "DIAMOND"
+# manzor az lobby hammon section hast example:
+  #lobby1:
+  #name: "&aLobby 1"
+  #material: "DIAMOND"
+  lobby2:
+    name: "&bLobby 2"
+    material: "EMERALD"
+
+  lobby3:
+    name: "&cLobby 3"
+    material: "GOLD_INGOT"
